@@ -101,6 +101,10 @@ Final Report
 
 * Python
 
+## Dataset(s) Used
+
+* **COCO Dataset** – ~25 GB / 1.5M images
+
 ## Project Structure
 
 ```text
